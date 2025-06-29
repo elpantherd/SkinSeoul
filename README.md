@@ -119,7 +119,7 @@ The system provides multiple integration options:
 
 ## 📊 Business Impact
 
-Implementation of this AI merchandising system is expected to deliver:
+Implementation of this merchandising system is expected to deliver:
 
 - **+15-25%** increase in conversion rates
 - **+12-18%** growth in average order value
