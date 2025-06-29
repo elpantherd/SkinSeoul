@@ -1,10 +1,10 @@
-# SkinSeoul AI-Powered Automated Merchandising System
+# SkinSeoul's Automated Merchandising System
 
 An intelligent, data-driven system that automatically ranks and curates products across key areas of the SkinSeoul e-commerce website, optimizing for conversion rates, average order value, and product discovery while reducing manual effort.
 
 ## 📊 System Overview
 
-This AI-powered merchandising system dynamically ranks products for the SkinSeoul website homepage carousels based on a sophisticated algorithm that considers multiple business factors:
+This merchandising system dynamically ranks products for the SkinSeoul website homepage carousels based on a sophisticated algorithm that considers multiple business factors:
 
 - **Sales Velocity (35%)**: Conversion efficiency and total sales volume
 - **Profit Margin (25%)**: Revenue optimization and business profitability
@@ -24,33 +24,7 @@ The system implements a complete data pipeline from ingestion to frontend displa
 - **Automated Scheduling**: Hands-off operation with exception handling
 - **Visual Analytics**: Performance insights and trend analysis
 
-## 📂 Codebase Structure
 
-```
-skinseoul-merchandising/
-│
-├── app/                           # Main application code
-│   ├── models/                    # Data models and schema
-│   ├── core/                      # Core ranking engine
-│   ├── api/                       # API controllers
-│   ├── services/                  # Business logic services
-│   └── utils/                     # Helper utilities
-│
-├── config/                        # Configuration files
-│   ├── touchpoints/               # Touchpoint-specific configs
-│   └── scoring/                   # Scoring algorithm configs
-│
-├── scheduler/                     # Automation scheduling system
-│
-├── dashboard/                     # Web interface for management
-│   ├── static/                    # Frontend assets
-│   └── templates/                 # HTML templates
-│
-├── tests/                         # Test suite
-│
-├── docker/                        # Docker configuration
-│
-└── visualizations/                # Performance analytics
 ```
 
 ## 🔧 Installation & Setup
@@ -90,10 +64,6 @@ docker-compose up -d
 python app.py
 ```
 
-6. Access the dashboard:
-```
-http://localhost:8000/dashboard
-```
 
 ## 📈 Performance Analysis
 
