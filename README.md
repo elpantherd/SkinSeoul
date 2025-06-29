@@ -12,6 +12,8 @@ This merchandising system dynamically ranks products for the SkinSeoul website h
 - **Brand Tier (15%)**: Strategic brand positioning and partnerships
 - **Engagement Score (10%)**: Customer interaction and interest metrics
 
+![merchandising_algorithm_weights](https://github.com/user-attachments/assets/6793e37f-a90a-468e-9c99-7e554a24ae4e)
+
 The system implements a complete data pipeline from ingestion to frontend display, with comprehensive configuration options, manual override capabilities, and performance monitoring.
 
 ## 🚀 Key Features
@@ -25,7 +27,11 @@ The system implements a complete data pipeline from ingestion to frontend displa
 - **Visual Analytics**: Performance insights and trend analysis
 
 
-
+![correlation_matrix_1](https://github.com/user-attachments/assets/0a3a91fa-c8c0-4109-862f-4e973a64ba27)
+![top10_score_breakdown](https://github.com/user-attachments/assets/747fbee9-9a23-4843-8c42-87d93b62964b)
+![brand_tier_chart](https://github.com/user-attachments/assets/b13b65cb-9076-4188-9276-73695e876277)
+![brand_tier_distribution](https://github.com/user-attachments/assets/09101d38-7ea9-400f-a6a6-a2a9b307014f)
+![price_vs_score_scatterplot](https://github.com/user-attachments/assets/a3988338-f9db-4e7f-8e20-f8a5ed3b4fda)
 
 ## 🔧 Installation & Setup
 
