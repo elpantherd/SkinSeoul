@@ -25,7 +25,7 @@ The system implements a complete data pipeline from ingestion to frontend displa
 - **Visual Analytics**: Performance insights and trend analysis
 
 
-```
+
 
 ## 🔧 Installation & Setup
 
